@@ -1,4 +1,4 @@
-# DB_Scan_Kmeans_Clstering
+# DB_Scan_Kmeans_Clustering
 Clustering algorithm and DB scan, kmeans
 
 Clustering methods in Machine Learning includes both theory and python code of each algorithm. Algorithms include K Mean, K Mode, Hierarchical, DB Scan and Gaussian Mixture Model GMM. Interview questions on clustering are also added in the end.
