@@ -1,6 +1,8 @@
 # DB_Scan_Kmeans_Clustering
 Clustering algorithm and DB scan, kmeans
 
+DBSCAN is a density-based clustering algorithm that works on the assumption that clusters are dense regions in space separated by regions of lower density. It groups 'densely grouped' data points into a single cluster.
+
 Clustering methods in Machine Learning includes both theory and python code of each algorithm. Algorithms include K Mean, K Mode, Hierarchical, DB Scan and Gaussian Mixture Model GMM. Interview questions on clustering are also added in the end.
 
 
