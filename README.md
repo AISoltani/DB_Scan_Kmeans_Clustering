@@ -1,4 +1,4 @@
-# DB_Scan_Kmeans_Clustering
+# DB-Scan & K-Means Clustering
 Clustering algorithm and DB scan, kmeans
 
 DBSCAN is a density-based clustering algorithm that works on the assumption that clusters are dense regions in space separated by regions of lower density. It groups 'densely grouped' data points into a single cluster.
