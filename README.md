@@ -116,6 +116,3 @@ Clustering methods in Machine Learning includes both theory and python code of e
 * It uses the dissimilarities(total mismatch) between data points
 * Lesser the dissimilarities, the more our data points are closer
 * It uses Mode for most value in the column
-
-
-
